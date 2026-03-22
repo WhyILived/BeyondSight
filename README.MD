@@ -11,7 +11,7 @@ ElevenLabs for speech synthesis
 Piece by piece, the hardware and software came together into a system where every component—from motors to models—worked in perfect harmony.
 
 ✨ What it does
-BeyondSight is a full wearable ecosystem designed to empower DeafBlind individuals with independence, communication, and safety.
+BeyondSight is a fully wearable ecosystem designed to empower DeafBlind individuals with independence, communication, and safety.
 
 👕 Navigation & Object Detection
 Using an Xbox depth camera, the vest's four haptic motors guide the wearer through physical spaces. The motors on the left and right indicate turning directions, while the top and bottom motors guide vertical adjustments. With the gauntlet's Braille keypad, the user can request specific objects or destinations—whether that's a door, a chair, or even a water bottle. Once selected, the motors provide directional cues to help the user orient and reach the target.
